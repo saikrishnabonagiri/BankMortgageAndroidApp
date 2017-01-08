@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mortagage Calculator</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="tip_percent">Years: 15</string>
+    <string name="tip">Tip </string>
+    <string name="total">Total</string>
+    <string name="loan">Loan</string>
+    <string name="rate">Rate</string>
+    <string name="monthly">Monthly</string>
+</resources>
